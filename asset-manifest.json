@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udemy-course-page/static/css/main.f6cb96c3.css",
+    "main.js": "/udemy-course-page/static/js/main.af7205b5.js",
+    "index.html": "/udemy-course-page/index.html",
+    "main.f6cb96c3.css.map": "/udemy-course-page/static/css/main.f6cb96c3.css.map",
+    "main.af7205b5.js.map": "/udemy-course-page/static/js/main.af7205b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6cb96c3.css",
+    "static/js/main.af7205b5.js"
+  ]
+}
