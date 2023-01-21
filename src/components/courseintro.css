@@ -1,0 +1,10 @@
+.contain { position: relative; }
+.contain img { display: block; }
+.contain .icon { position: absolute; bottom:44%; left:44%; }
+.contain .preview { position: absolute; bottom:26%; left:28%; }
+
+.icon{
+    color: white;
+    height: 3rem;
+    width: 3rem;
+}

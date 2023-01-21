@@ -1,0 +1,7 @@
+
+#sticky-div {
+    position: fixed;
+    top: 7rem;
+    right: 2rem;
+    /* other styles */
+}
